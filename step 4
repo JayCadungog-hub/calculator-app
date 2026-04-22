@@ -1,0 +1,15 @@
+// ============================================================
+// STEP 4: Declare addThreeAndFour, return 3 + 4, and log it
+// ============================================================
+
+function addTwoAndSeven() {
+  return 2 + 7;
+}
+
+console.log(addTwoAndSeven()); // 9
+
+function addThreeAndFour() {
+  return 3 + 4;
+}
+
+console.log(addThreeAndFour()); // 7
