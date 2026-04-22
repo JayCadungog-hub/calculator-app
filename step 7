@@ -1,0 +1,7 @@
+// ============================================================
+// STEP 7: Return num1 + num2 inside calculateSum
+// ============================================================
+
+function calculateSum(num1, num2) {
+  return num1 + num2;
+}
