@@ -1,0 +1,10 @@
+// ============================================================
+// STEP 12: Declare calculateProduct, return num1 * num2
+//          Then call it with (13, 5)
+// ============================================================
+
+function calculateProduct(num1, num2) {
+  return num1 * num2;
+}
+
+console.log(calculateProduct(13, 5)); // 65
