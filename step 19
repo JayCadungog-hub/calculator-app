@@ -1,0 +1,6 @@
+// ============================================================
+// STEP 19: Test calculateSquareRoot with arguments 25 and 100
+// ============================================================
+
+console.log(calculateSquareRoot(25));  // 5
+console.log(calculateSquareRoot(100)); // 10
