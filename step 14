@@ -1,0 +1,5 @@
+// ============================================================
+// STEP 14: Call calculateQuotient(3, 0) — observe Infinity
+// ============================================================
+
+console.log(calculateQuotient(3, 0)); // Infinity
