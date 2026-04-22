@@ -1,0 +1,7 @@
+// ============================================================
+// STEP 11: Test calculateDifference with three console.logs
+// ============================================================
+
+console.log(calculateDifference(22, 5)); // 17
+console.log(calculateDifference(12, 1)); // 11
+console.log(calculateDifference(17, 9)); // 8
