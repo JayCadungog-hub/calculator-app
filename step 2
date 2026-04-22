@@ -1,0 +1,7 @@
+// ============================================================
+// STEP 2: Return the sum of 2 and 7 inside addTwoAndSeven
+// ============================================================
+
+function addTwoAndSeven() {
+  return 2 + 7;
+}
