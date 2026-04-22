@@ -1,0 +1,14 @@
+// ============================================================
+// STEP 15: Update calculateQuotient to handle division by zero
+// ============================================================
+
+function calculateQuotient(num1, num2) {
+  if (num2 === 0) {
+    return "Error: Division by zero";
+  }
+  return num1 / num2;
+}
+
+console.log(calculateQuotient(7, 11)); // 0.6363636363636364
+console.log(calculateQuotient(3, 0));  // "Error: Division by zero"
+
