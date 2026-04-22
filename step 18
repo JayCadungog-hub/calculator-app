@@ -1,0 +1,7 @@
+// ============================================================
+// STEP 18: Declare calculateSquareRoot, return Math.sqrt(num)
+// ============================================================
+
+function calculateSquareRoot(num) {
+  return Math.sqrt(num);
+}
