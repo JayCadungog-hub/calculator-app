@@ -1,0 +1,6 @@
+// ============================================================
+// STEP 17: Test calculateSquare with arguments 2 and 9
+// ============================================================
+
+console.log(calculateSquare(2)); // 4
+console.log(calculateSquare(9)); // 81
