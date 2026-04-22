@@ -1,0 +1,7 @@
+// ============================================================
+// STEP 10: Declare calculateDifference, return num1 - num2
+// ============================================================
+
+function calculateDifference(num1, num2) {
+  return num1 - num2;
+}
